@@ -1,4 +1,3 @@
-![telegram-image.jpeg](attachment:c14ea855-ac8e-4b07-8670-d5f05715ad38.jpeg)
 
 # **PROJETO PIPELINE DE DADOS DO TELEGRAM** 
 
